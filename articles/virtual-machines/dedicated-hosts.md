@@ -12,7 +12,7 @@ ms.reviewer: mattmcinnes
 #Customer intent: As an IT administrator, I want to learn about more about using a dedicated host for my Azure virtual machines
 ---
 
-# Azure Dedicated Hosts
+# Azure Dedicated Host
 
 **Applies to:** :heavy_check_mark: Linux VMs :heavy_check_mark: Windows VMs :heavy_check_mark: Uniform scale sets
 
